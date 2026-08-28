@@ -14,6 +14,17 @@ description: 'Brelyon is an MIT Media Lab spin-off building headset-free virtual
   merging and multi-focal content creation, but publishes no public developer program,
   API, or SDK.'
 url: https://raw.githubusercontent.com/api-evangelist/brelyon/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://www.brelyon.com/wp-content/themes/brelyon-0430_2026/assets/images/blue-logo.svg
 x-type: company
 x-source: harvest:secondary-market
