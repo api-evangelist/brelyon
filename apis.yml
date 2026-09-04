@@ -25,6 +25,18 @@ deliveryModel:
   - pricing
   generated: '2026-08-28'
   method: derived
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - security
+  generated: '2026-09-02'
+  method: derived
 image: https://www.brelyon.com/wp-content/themes/brelyon-0430_2026/assets/images/blue-logo.svg
 x-type: company
 x-source: harvest:secondary-market
