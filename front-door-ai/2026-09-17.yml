@@ -1,0 +1,27 @@
+# Front Door AI Index — brelyon — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: brelyon
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.brelyon.com
+  final_host: www.brelyon.com
+  ownership: own
+  owner: brelyon
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 2
+  host_score: 2
+  density: 1.39
+  words: 1435
+  tiers:
+    agentic: 0
+    core: 2
+    model: 0
+  ambiguous: 10
+  top_terms:
+    automation: 7
+    intelligence: 3
+    AI: 2
